@@ -1,0 +1,38 @@
+States
+State,"Population, 2024","Pop. per sq. mi., 2024"
+California,"39,431,263",253.0
+Texas,"31,290,831",119.8
+Florida,"23,372,215",435.6
+"New York","19,867,248",421.6
+Pennsylvania,"13,078,751",292.3
+Illinois,"12,710,158",229.0
+Ohio,"11,883,304",290.8
+Georgia,"11,180,878",193.7
+"North Carolina","11,046,024",227.2
+Michigan,"10,140,459",179.1
+
+Counties
+County,"Population, 2024","Pop. per sq. mi., 2024"
+"Los Angeles County, CA","9,757,179","2,403.1"
+"Cook County, IL","5,182,617","5,484.7"
+"Harris County, TX","5,009,302","2,934.1"
+"Maricopa County, AZ","4,673,096",507.8
+"San Diego County, CA","3,298,799",783.5
+"Orange County, CA","3,170,435","3,998.7"
+"Miami-Dade County, FL","2,838,461","1,494.0"
+"Dallas County, TX","2,656,028","3,041.9"
+"Kings County, NY","2,617,631","37,730.8"
+"Riverside County, CA","2,529,933",350.9
+
+Cities
+"City, ST","Population, 2024","Pop. per sq. mi., 2024"
+"New York city, NY","8,478,072","28,217.3"
+"Los Angeles city, CA","3,878,704","8,243.4"
+"Chicago city, IL","2,721,308","11,948.8"
+"Houston city, TX","2,390,125","3,730.2"
+"Phoenix city, AZ","1,673,164","3,228.0"
+"Philadelphia city, PA","1,573,916","11,717.2"
+"San Antonio city, TX","1,526,656","3,059.7"
+"San Diego city, CA","1,404,452","4,306.9"
+"Dallas city, TX","1,326,087","3,903.9"
+"Jacksonville city, FL","1,009,833","1,351.4"
